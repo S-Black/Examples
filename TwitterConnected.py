@@ -8,17 +8,15 @@
 # Libraries
 #--------------
 from nltk.twitter import Twitter,Query, Streamer, Twitter, TweetViewer, TweetWriter, credsfromfile
-from pprint import pprint
-import sys
-import nltk
 from nltk.tokenize import word_tokenize
-#nltk.download()
+from nltk.corpus import stopwords
 from textblob import TextBlob
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import string
 import re
-from nltk.corpus import stopwords
 import json
+from pprint import pprint
+import sys
 
 # Functions
 #------------------
