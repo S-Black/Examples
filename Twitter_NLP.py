@@ -2,7 +2,7 @@
 # Twitter sentiment analysis
 #
 # Connects to the live Twitter feed and
-# gets a sample of tweets fro the last 7 days
+# gets a sample of tweets from the last 7 days
 #
 #---------------------------------------------------
 
